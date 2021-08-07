@@ -33,9 +33,4 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.jennykitten78.vercel.app/api?username=jennykitten78&show_icons=true&hide_border=true" />
-
-</details>
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.jennykitten78.vercel.app/api?username=jennykitten78&show_icons=true&hide_border=true" />
