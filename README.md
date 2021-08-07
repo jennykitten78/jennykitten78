@@ -1,4 +1,4 @@
-### Hi there, I'm Jenny - aka [JennyKitten78|https://jennykitten78.me/]
+### Hi there, I'm Jenny - aka [JennyKitten78](https://jennykitten78.me/)
 
 ### Languages and Tools:
 
