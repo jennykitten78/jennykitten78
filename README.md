@@ -33,4 +33,4 @@
 
 ---
 
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.jennykitten78.vercel.app/api?username=jennykitten78&show_icons=true&hide_border=true" />
+ [![JennyKitten78's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennykitten78)](https://github.com/anuraghazra/github-readme-stats)
