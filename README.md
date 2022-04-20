@@ -3,7 +3,7 @@
 ## I am a Developer.
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have never been outside the USA
 
 ### Connect with me:
