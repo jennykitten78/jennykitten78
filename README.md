@@ -6,10 +6,6 @@
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have never been outside the USA
 
-### Connect with me:
-
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jennykitten78.me/)
-
 <br />
 
 ### Languages and Tools:
