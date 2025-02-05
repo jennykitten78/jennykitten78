@@ -3,15 +3,12 @@
 ## I am a Developer.
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have never been outside the USA
 
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jennykitten78.me/)
-[<img align="left" alt="YouTube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCd6LJGwVgy_zFxeSrOiip2A)
-[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jennykitten78)
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jennykitten78/)
 
 <br />
 
